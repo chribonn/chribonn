@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @chribonn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Alan
+- 👀 I’m interested in cycling, long distant hiking, coding, teaching and learning.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on my ETL engine ETransL.  I have a wish list that I think can grow much more and would like to collaborate with others to make this happen.
+- 📫 You can reach me on @chribonn or on my email chribonn@gmail.com.
+
+Look forward to cooperating and learning.
+
+Take care.
 
 <!---
 chribonn/chribonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
