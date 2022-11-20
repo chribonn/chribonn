@@ -2,7 +2,7 @@
 - 👀 I’m interested in cycling, long distant hiking, coding, teaching and learning.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my ETL engine ETransL.  I have a wish list that I think can grow much more and would like to collaborate with others to make this happen.
-- 📫 You can reach me on @chribonn, @chribonn@twit.social or on my email chribonn@duck.com
+- 📫 You can reach me on @chribonn or on my email chribonn@duck.com
 
 Look forward to cooperating and learning.
 
